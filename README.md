@@ -15,7 +15,7 @@ This repository can be used via cloning the code base or copying it as a GitHub 
 
 ```sh
 # clone this repository
-git clone git@github.com:aturingmachine/mevn-stack.git [directory-name]
+git clone git@github.com:AdrianNicolenco/mevn-stack.git [directory-name]
 
 # or click "use this template" and clone your new repo
 git clone <your-repo>
